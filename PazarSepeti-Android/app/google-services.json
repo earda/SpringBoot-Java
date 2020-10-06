@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1614389579",
+    "firebase_url": "https://pazar-sepeti-404cd.firebaseio.com",
+    "project_id": "pazar-sepeti-404cd",
+    "storage_bucket": "pazar-sepeti-404cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1614389579:android:ec00efeff3d0fa43e348ce",
+        "android_client_info": {
+          "package_name": "com.krtgames.pazarsepeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1614389579-usv61dur1c65nq78mclfv1ro4ssupda0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krtgames.pazarsepeti",
+            "certificate_hash": "4050e7ae95399dba0c1e1fc75d36a41fd5a432e8"
+          }
+        },
+        {
+          "client_id": "1614389579-7idltg8so40e8adtt7p6r55ll7plgcbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5KgSiB4TKqZFUtzeXRk9cdnnHlJ312jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1614389579-7idltg8so40e8adtt7p6r55ll7plgcbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

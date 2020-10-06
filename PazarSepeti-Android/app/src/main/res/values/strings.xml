@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pazar Sepeti</string>
+    <string name="urunId">urunId</string>
+    <string name="urunAd">urunAd</string>
+    <string name="title">title</string>
+    <string name="k">Çıkış</string>
+
+
+</resources>
